@@ -1,0 +1,4 @@
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
