@@ -2,3 +2,14 @@ C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Deb
 C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
 C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
 C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.json
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\DAL.runtimeconfig.dev.json
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\Fadami\Documents\GitHub\controle_financeiro_Angular\backend\DAL\obj\Debug\netcoreapp3.1\DAL.genruntimeconfig.cache
